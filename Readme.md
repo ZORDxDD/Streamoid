@@ -187,7 +187,7 @@ GET http://localhost:8081/public/products/brand/Nike
 
 **Sample Request:**
 ```
-GET http://localhost:8080/public/products/price/50/500
+GET http://localhost:8081/public/products/price/50/500
 ```
 
 **Success Response:**
